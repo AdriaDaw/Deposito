@@ -7,7 +7,6 @@ public class Main {
         CCuenta cuenta1;
         double saldoActual;
 
-        //S'ha afegit el float cantidad
         operativa_cuenta(1f);
     }
 
